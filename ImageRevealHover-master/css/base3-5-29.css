@@ -360,7 +360,7 @@ a.content__text-link[data-fx="14"]:hover::after {
 }
 
 .text-project__name {
-  padding-left: 80px;
+  padding-left: 0px;
   font-family: 'Sharpgrotesk book20', sans-serif;
   font-size: 80px;
   line-height: 100px;
